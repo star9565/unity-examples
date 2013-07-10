@@ -26,8 +26,8 @@ unity-examples
 
 ## 결과
 
-* 삼성 갤럭시3 - 문제 없음
-* 삼성 갤럭시 노트 8인치 - 문제 없음
-* 구글 넥서스4 - BUG 발생, FIX 가능
-* LG 옵티머스LTE2 - BUG 발생, FIX 가능
-* 펜텍 베가 NO.6 - 문제 없음
+* 삼성 갤럭시 S3 - 문제 없음 (GPU: mali-400MP)
+* 삼성 갤럭시 노트 8인치 - 문제 없음 (GPU: mali-400MP4)
+* 구글 넥서스4 - BUG 발생, FIX 가능 (GPU: adreno 320)
+* LG 옵티머스LTE2 - BUG 발생, FIX 가능 (GPU: adreno 225)
+* 펜텍 베가 NO.6 - 문제 없음 (GPU: adreno 320)
