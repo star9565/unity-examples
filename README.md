@@ -24,6 +24,7 @@ unity-examples
 
 * 문제 현상 발생시 왼쪽 상단 [o] BUG [ ] FIX 에서 FIX 를 눌러 정상 작동 여부를 확인함
 
+
 ## 테스트 결과
 
 * 삼성 갤럭시 S3 - 문제 없음 (GPU: mali-400MP)
@@ -32,3 +33,12 @@ unity-examples
 * 구글 넥서스7 - 문제없음 (GPU: nvidia ULP geforce 416 MHz)
 * LG 옵티머스LTE2 - BUG 발생, FIX 가능 (GPU: adreno 225)
 * 펜텍 베가 NO.6 - 문제 없음 (GPU: adreno 320)
+
+## 테스트 예시
+
+### BUG
+
+![](http://dl.dropbox.com/s/b72dcthllbh4mwl/unity_dynamic_font_nexus4_bug.png)
+
+### FIX
+![](http://dl.dropbox.com/s/u4444yp39fv461k/unity_dynamic_font_nexus4_fix.png)
