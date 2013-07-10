@@ -30,3 +30,4 @@ unity-examples
 * 삼성 갤럭시 노트 8인치 - 문제 없음
 * 구글 넥서스4 - BUG 발생, FIX 가능
 * LG 옵티머스LTE - BUG 발생, FIX 가능
+* 펜텍 베가 NO.6 - 문제 없음
